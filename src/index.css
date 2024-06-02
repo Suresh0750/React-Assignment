@@ -1,0 +1,85 @@
+
+
+
+.container{
+  padding: 5em;
+  border: 1px solid #38bdf8;
+  background-color:#a8a29e;
+  color:#fcd34d;
+  box-shadow: 20px 20px 20px #0c0a09;
+  border-radius: 10px;
+  margin : 2em 2em;
+  text-shadow: 1px 1px 1px#0c0a09;
+}
+
+.countDiv{
+  position: sticky;
+  top: 5em;
+  left : 5em;
+  /* text-align: center; */
+  width: 25em;
+  height: 10em;
+  background-color: #ee9ca7;
+  box-shadow: 20px 20px 20px  #0c0a09;
+  border: 2px solid  #de6262;
+  border-radius: 12px;
+  margin-bottom: 2.5em;
+}
+
+.insideDiv{
+  position: relative;
+  text-align: center;
+  top: 50%;
+  margin-bottom: 15px;
+  font-size: large;
+  font-weight: 800;
+}
+
+.insideFlex{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.formDiv{
+  height: 6em;
+  width: 27em;
+  padding: 20px 10px;
+  margin: 10px;
+  background-color: #0c0a09;
+  color: white;
+  border-radius: 15px;
+}
+
+.inputName{
+  padding: 5px 10px;
+  border-radius: 6px;
+  width: 25em;
+  margin-bottom: 10px;
+  color: #0c0a09;
+  font-weight: 800;
+  font-size: small;
+  background-color:azure;
+
+}
+
+.submitBtn{
+  padding: 5px 10px;
+  border: #0c0a09;
+  border-radius: 5px;
+  background-color: #a8a29e;
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+
+.insertVal{
+  display: none;
+  /* border:1px solid #0c0a09; */
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgb(86, 113, 113) ;
+  color: white;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}

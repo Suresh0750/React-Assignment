@@ -1,0 +1,32 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 64 64"
+    width="64"
+    height="64">
+    <circle
+        cx="32"
+        cy="32"
+        r="31"
+        stroke="black"
+        stroke-width="2"
+        fill="lightgray" />
+    <polyline
+        points="22,22 42,22 42,42 22,42"
+        fill="none"
+        stroke="black"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path
+        d="M22 22 L30 30"
+        fill="none"
+        stroke="black"
+        stroke-width="2"
+        stroke-linecap="round" />
+    <path
+        d="M22 42 L30 34"
+        fill="none"
+        stroke="black"
+        stroke-width="2"
+        stroke-linecap="round" />
+</svg>
